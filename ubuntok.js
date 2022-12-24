@@ -2,7 +2,7 @@
 // @name         TikTok Addiction Prevention
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Makes TikTok less addicting by removing recommended videos and infinite scrolling, and disabling video autoplay
+// @description  Makes TikTok less addicting by removing recommended videos and customizes the main pages!
 // @author       Github.com/danielpiliu
 // @match        https://www.tiktok.com/*
 // @grant        none
