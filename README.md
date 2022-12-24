@@ -1,6 +1,7 @@
 # 🟣 UbunTok 🟠
 <pre>An Ubuntu Themed Anti adiction TikTok userscript project
-<b>WHY:</b> 
+
+<h2><b>WHY:</b></h2>
 This userscript was made because I was annoyed by tiktoks addicting design evertime i want to visit it,
 I beleive we should have the freedom to choose whether we want to be stuck in a loophole by tiktok or not!
 <h2><i>Free like <b>Linux</b></i></h3>
