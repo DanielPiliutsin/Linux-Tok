@@ -19,5 +19,6 @@ I beleive we should have the freedom to choose whether we want to be stuck in a 
 4.) Then Open Your File Manager, Click On The Downloaded ".js" File, Right Click it, And Open It With Your Text Editor
 5.) Now Copy All The Code Within The ".js" file And Paste It Within The Tampermonkey Text Window
 6.) Now In Tampermonkey, Press "CTRL+S" And You Are Good To Go!
-<h2>🎵 PREVIEW 🎵</h2>
+</pre>
+<h1>🎵 PREVIEW 🎵</h1>
 <p><img src=https://cdn.discordapp.com/attachments/1055995168144236605/1055995260796424202/Screenshot_from_2022-12-23_18-47-13.png></p>
