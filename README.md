@@ -21,7 +21,9 @@ I beleive we should have the freedom to choose whether we want to be stuck in a 
 6.) Now In Tampermonkey, Press "CTRL+S" And You Are Good To Go!
 </pre>
 <h1>🎵 PREVIEW 🎵</h1>
+<h2>DebTok(aka debtok.js):</h2>
 <p><img src=https://cdn.discordapp.com/attachments/1055995168144236605/1071606376255725639/Screenshot_from_2023-02-04_20-39-14.png></p>
 <p><img src=https://cdn.discordapp.com/attachments/1055995168144236605/1071606529523974145/Screenshot_from_2023-02-04_20-40-02.png></p>
+<h2>UbunTok(aka ubuntok.js):</h2>
 <p><img src=https://cdn.discordapp.com/attachments/1055995168144236605/1071606479003602984/Screenshot_from_2023-02-04_20-40-29.png></p>
 <p><img src=https://cdn.discordapp.com/attachments/1055995168144236605/1071606443976970351/Screenshot_from_2023-02-04_20-40-57.png></p>
