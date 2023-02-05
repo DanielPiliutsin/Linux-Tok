@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         TikTok Addiction Prevention
+// @name         UnbunTok
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Makes TikTok less addicting by removing recommended videos and customizes the main pages!
