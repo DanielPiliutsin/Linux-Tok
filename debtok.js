@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Debtok
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      0.1
 // @description  Makes TikTok less addicting by removing recommended videos and customizes the main pages!
 // @author       Github.com/danielpiliu
 // @match        https://www.tiktok.com/*
@@ -18,13 +18,13 @@
   topBar.style.backgroundColor = "#7DB6F0";
 
   let targets = [
-    "div.tiktok-1id9666-DivMainContainer.ec6jhlz0",
     "div.tiktok-1a4urrd-DivWrapper.e14l9ebt2",
     "div.e14l9ebt0.tiktok-1hi889j-DivScrollContainer-StyledScroll.e1b4u1n1",
     "div.e14l9ebt0.tiktok-176uj12-DivScrollContainer-StyledScroll.e1b4u1n1",
     "div.tiktok-1qpva5c-DivListContainer.e1ymawm00",
     "div.tiktok-1vrbodl-DivPromotionContainer.ejkrawn0",
-    "div.tiktok-1ps1qld-ButtonBasicButtonContainer-StyledVideoSwitch.e11s2kul14"
+    "div.tiktok-1ps1qld-ButtonBasicButtonContainer-StyledVideoSwitch.e11s2kul14",
+    "div.tiktok-3qrapw-DivMainContainer.ec6jhlz0"
   ];
 
   let targetsColor = [
